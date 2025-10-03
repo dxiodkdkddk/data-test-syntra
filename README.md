@@ -1,2 +1,2 @@
 # data-test-syntra
-trest cuersus
+test cursus
