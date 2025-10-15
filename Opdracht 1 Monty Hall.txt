@@ -1,0 +1,15 @@
+Opdracht 1: Monty Hall Simulatie
+Algemeen
+Deze opdracht maak je alleen of per twee. Indien je per twee werkt dient ieder de opdracht in. Je vermeld vanboven in je oefening in een commentaarlijn met wie je hebt samengewerkt.
+De opdracht telt mee voor 8/30 op het dagelijks werk van de module: leren programmeren in Python.
+Er wordt geëvalueerd op de correcte werking van de code, efficiëntie en leesbaarheid van de code.
+Voor deze opdracht mag gebruik gemaakt worden van al het cursusmateriaal dat in deze module beschikbaar is gesteld. Je mag ook online opzoekingswerk verrichten om deelproblemen op te lossen. Bijvoorbeeld: hoe haal ik een willekeurig element uit een lijst? Hoe itereer ik alfabetisch over een dictionairy? Enz... Je zoekt niet op naar gehele oplossingen van de opgaves. Je mag ook geen gebruik maken van AI (chatGPT, co-pilot,...) om code voor (deel)oplossingen te vinden.
+Je dient een python file (.py) of een notebook file (.ipynb) in.
+Situering
+Het Monty Hall probleem is een brain teaser gebaseerd op een Amerikaans televisie spelprogramma uit de jaren 60' met als presentator Monty Hall. Het verloop is als volgt. Er zijn drie deuren met achter één deur een prijs en achter beide overige deuren zit niets. Belangrijk is dat de presentator weet heeft van achter welke deur de prijs ligt. De kandidaat kiest één van de drie deuren, deze wordt nog niet geopend. De presentator opent nu van beide overgebleven deuren een deur waar geen prijs achter zit. Er blijven nog twee ongeopende deuren over. De kandidaat wordt gevraagd of hij achter zijn keuze blijft staan of hij alsnog naar de andere deur wilt overschakelen. De vraag is, blijft hij best bij zijn originele keuze, wisselt hij van deur of maakt het niets uit?
+Opgave
+Schrijf een programma dat een simulatie maakt van het monty hall probleem. In deze simulatie moet je kunnen kiezen of je bij je eerste keuze blijft voor de deur of overschakelt naar een andere deur. Bepaal in deze simulatie of je de prijs hebt gewonnen of niet.
+Je programma moet de simulatie `n' maal uitvoeren (met `n' een waarde die de gebruiker kan ingeven) waarbij je bij de eerst gekozen deur blijft en `n' maal uitvoert waarbij je wisselt van deur. Als output van het programma weergeef je het percentage dat je de prijs hebt gewonnen voor elk van beide mogelijkheden.
+Dit hoort niet bij de opgave: Test je programma nu eens uit met n = 4, n = 400, n = 1000. Hoe meer je de simulatie uitvoert, hoe dichter je bij de eigenlijke kansverdeling zal benaderen. Zijn deze resultaten zoals je verwacht had? Kan je de resultaten verklaren? Geen zorgen indien je dit niet onmiddellijk kan, er zijn Nobelprijswinnaars die zich verkeken hebben op dit probleem.
+
+
